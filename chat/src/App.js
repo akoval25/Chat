@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
       
         <p>
-          Please try our chat below
+          Будь ласка, спробуйте наш чат нижче
         </p>
        
       </header>
